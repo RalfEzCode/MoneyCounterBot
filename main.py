@@ -11,6 +11,7 @@ answer = ""
 bot = telebot.TeleBot(config.token)
 #con = sql.connect('info.db')
 
+# этот комментарий для проерки гита
 
 
 if __name__ == '__main__':
